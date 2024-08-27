@@ -1,0 +1,6 @@
+environment - conda activate final
+
+
+put app and htmlTemplate together first , then
+
+streamlit run app.py
